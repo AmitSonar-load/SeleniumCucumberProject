@@ -1,0 +1,167 @@
+2020-04-23 18:13:50,465 [main] INFO nopComemrce - **Lauching browser**
+2020-04-23 18:13:50,550 [main] INFO nopComemrce - Opening URL 
+2020-04-23 18:13:54,577 [main] INFO nopComemrce - Providing login deatils
+2020-04-23 18:13:56,137 [main] INFO nopComemrce - Started login
+2020-04-23 18:14:23,336 [main] INFO nopComemrce - **Lauching browser**
+2020-04-23 18:14:23,338 [main] INFO nopComemrce - Opening URL 
+2020-04-23 18:14:27,384 [main] INFO nopComemrce - Providing login deatils
+2020-04-23 18:14:27,849 [main] INFO nopComemrce - Started login
+2020-04-23 18:15:03,935 [main] INFO nopComemrce - **Lauching browser**
+2020-04-23 18:15:03,938 [main] INFO nopComemrce - Opening URL 
+2020-04-23 18:15:07,692 [main] INFO nopComemrce - Providing login deatils
+2020-04-23 18:15:08,247 [main] INFO nopComemrce - Started login
+2020-04-23 18:22:17,333 [main] INFO nopComemrce - **Lauching browser**
+2020-04-23 18:22:17,409 [main] INFO nopComemrce - Opening URL 
+2020-04-23 18:22:21,816 [main] INFO nopComemrce - Providing login deatils
+2020-04-23 18:22:22,369 [main] INFO nopComemrce - Started login
+2020-04-23 18:23:00,124 [main] INFO nopComemrce - **Lauching browser**
+2020-04-23 18:23:00,126 [main] INFO nopComemrce - Opening URL 
+2020-04-23 18:23:03,821 [main] INFO nopComemrce - Providing login deatils
+2020-04-23 18:23:04,382 [main] INFO nopComemrce - Started login
+2020-04-23 18:23:26,568 [main] INFO nopComemrce - **Lauching browser**
+2020-04-23 18:23:26,570 [main] INFO nopComemrce - Opening URL 
+2020-04-23 18:23:30,301 [main] INFO nopComemrce - Providing login deatils
+2020-04-23 18:23:30,797 [main] INFO nopComemrce - Started login
+2020-04-23 18:25:09,294 [main] INFO nopComemrce - **Lauching browser**
+2020-04-23 18:25:09,359 [main] INFO nopComemrce - Opening URL 
+2020-04-23 18:25:13,702 [main] INFO nopComemrce - Providing login deatils
+2020-04-23 18:25:14,259 [main] INFO nopComemrce - Started login
+2020-04-23 18:25:49,458 [main] INFO nopComemrce - **Lauching browser**
+2020-04-23 18:25:49,460 [main] INFO nopComemrce - Opening URL 
+2020-04-23 18:25:53,391 [main] INFO nopComemrce - Providing login deatils
+2020-04-23 18:25:53,920 [main] INFO nopComemrce - Started login
+2020-04-23 18:26:17,512 [main] INFO nopComemrce - **Lauching browser**
+2020-04-23 18:26:17,515 [main] INFO nopComemrce - Opening URL 
+2020-04-23 18:26:21,395 [main] INFO nopComemrce - Providing login deatils
+2020-04-23 18:26:21,807 [main] INFO nopComemrce - Started login
+2020-04-23 18:30:32,279 [main] INFO nopComemrce - **Lauching browser**
+2020-04-23 18:30:32,332 [main] INFO nopComemrce - Opening URL 
+2020-04-23 18:30:36,251 [main] INFO nopComemrce - Providing login deatils
+2020-04-23 18:30:36,825 [main] INFO nopComemrce - Started login
+2020-04-23 18:30:44,694 [main] INFO nopComemrce - Click on Customer menu
+2020-04-23 18:30:53,475 [main] INFO nopComemrce - Click on Add
+2020-04-23 18:30:56,889 [main] INFO nopComemrce - Enter info
+2020-04-23 18:31:04,751 [main] INFO nopComemrce - Browser close
+2020-04-23 18:31:08,916 [main] INFO nopComemrce - **Lauching browser**
+2020-04-23 18:31:08,919 [main] INFO nopComemrce - Opening URL 
+2020-04-23 18:31:12,575 [main] INFO nopComemrce - Providing login deatils
+2020-04-23 18:31:13,070 [main] INFO nopComemrce - Started login
+2020-04-23 18:31:18,094 [main] INFO nopComemrce - Click on Customer menu
+2020-04-23 18:31:30,569 [main] INFO nopComemrce - Browser close
+2020-04-23 18:31:34,529 [main] INFO nopComemrce - **Lauching browser**
+2020-04-23 18:31:34,532 [main] INFO nopComemrce - Opening URL 
+2020-04-23 18:31:38,380 [main] INFO nopComemrce - Providing login deatils
+2020-04-23 18:31:38,893 [main] INFO nopComemrce - Started login
+2020-04-23 18:31:43,619 [main] INFO nopComemrce - Click on Customer menu
+2020-04-23 18:31:52,964 [main] INFO nopComemrce - Browser close
+2020-04-23 18:31:57,018 [main] INFO nopComemrce - **Lauching browser**
+2020-04-23 18:31:57,020 [main] INFO nopComemrce - Opening URL 
+2020-04-23 18:32:00,144 [main] INFO nopComemrce - Providing login deatils
+2020-04-23 18:32:00,584 [main] INFO nopComemrce - Started login
+2020-04-23 18:32:04,795 [main] INFO nopComemrce - Login Out
+2020-04-23 18:32:04,798 [main] INFO nopComemrce - Checking title
+2020-04-23 18:32:08,723 [main] INFO nopComemrce - Browser close
+2020-04-23 18:32:12,776 [main] INFO nopComemrce - **Lauching browser**
+2020-04-23 18:32:12,778 [main] INFO nopComemrce - Opening URL 
+2020-04-23 18:32:16,667 [main] INFO nopComemrce - Providing login deatils
+2020-04-23 18:32:17,150 [main] INFO nopComemrce - Started login
+2020-04-23 18:32:22,713 [main] INFO nopComemrce - Login Out
+2020-04-23 18:32:22,714 [main] INFO nopComemrce - Checking title
+2020-04-23 18:32:27,036 [main] INFO nopComemrce - Browser close
+2020-04-23 18:32:30,947 [main] INFO nopComemrce - **Lauching browser**
+2020-04-23 18:32:30,949 [main] INFO nopComemrce - Opening URL 
+2020-04-23 18:32:34,964 [main] INFO nopComemrce - Providing login deatils
+2020-04-23 18:32:35,553 [main] INFO nopComemrce - Started login
+2020-04-23 19:35:38,101 [main] INFO nopComemrce - **Lauching browser**
+2020-04-23 19:35:38,165 [main] INFO nopComemrce - Opening URL 
+2020-04-23 19:35:42,136 [main] INFO nopComemrce - Providing login deatils
+2020-04-23 19:35:42,628 [main] INFO nopComemrce - Started login
+2020-04-23 19:35:49,156 [main] INFO nopComemrce - Click on Customer menu
+2020-04-23 19:35:57,120 [main] INFO nopComemrce - Click on Add
+2020-04-23 19:36:01,317 [main] INFO nopComemrce - Enter info
+2020-04-23 19:36:08,513 [main] INFO nopComemrce - Browser close
+2020-04-23 19:36:15,897 [main] INFO nopComemrce - **Lauching browser**
+2020-04-23 19:36:15,900 [main] INFO nopComemrce - Opening URL 
+2020-04-23 19:36:19,811 [main] INFO nopComemrce - Providing login deatils
+2020-04-23 19:36:20,245 [main] INFO nopComemrce - Started login
+2020-04-23 19:36:25,608 [main] INFO nopComemrce - Click on Customer menu
+2020-04-23 19:36:37,841 [main] INFO nopComemrce - Browser close
+2020-04-23 19:36:45,466 [main] INFO nopComemrce - **Lauching browser**
+2020-04-23 19:36:45,469 [main] INFO nopComemrce - Opening URL 
+2020-04-23 19:36:49,524 [main] INFO nopComemrce - Providing login deatils
+2020-04-23 19:36:50,094 [main] INFO nopComemrce - Started login
+2020-04-23 19:36:57,083 [main] INFO nopComemrce - Click on Customer menu
+2020-04-23 19:37:06,557 [main] INFO nopComemrce - Browser close
+2020-04-23 19:49:58,227 [main] INFO nopComemrce - **Lauching browser**
+2020-04-23 19:49:58,286 [main] INFO nopComemrce - Opening URL 
+2020-04-23 19:50:02,890 [main] INFO nopComemrce - Providing login deatils
+2020-04-23 19:50:03,321 [main] INFO nopComemrce - Started login
+2020-04-23 19:50:08,872 [main] INFO nopComemrce - Click on Customer menu
+2020-04-23 19:50:15,504 [main] INFO nopComemrce - Click on Add
+2020-04-23 19:50:18,963 [main] INFO nopComemrce - Enter info
+2020-04-23 19:50:26,079 [main] INFO nopComemrce - Browser close
+2020-04-23 19:50:33,327 [main] INFO nopComemrce - **Lauching browser**
+2020-04-23 19:50:33,331 [main] INFO nopComemrce - Opening URL 
+2020-04-23 19:50:37,191 [main] INFO nopComemrce - Providing login deatils
+2020-04-23 19:50:37,703 [main] INFO nopComemrce - Started login
+2020-04-23 19:50:46,736 [main] INFO nopComemrce - Login Out
+2020-04-23 19:50:46,738 [main] INFO nopComemrce - Checking title
+2020-04-23 19:50:52,348 [main] INFO nopComemrce - Browser close
+2020-04-24 14:12:51,762 [main] INFO nopComemrce - **Lauching browser**
+2020-04-24 14:12:52,734 [main] INFO nopComemrce - Opening URL 
+2020-04-24 14:12:58,691 [main] INFO nopComemrce - Providing login deatils
+2020-04-24 14:12:59,279 [main] INFO nopComemrce - Started login
+2020-04-24 14:13:05,369 [main] INFO nopComemrce - Click on Customer menu
+2020-04-24 14:13:11,967 [main] INFO nopComemrce - Click on Add
+2020-04-24 14:13:15,595 [main] INFO nopComemrce - Enter info
+2020-04-24 14:13:22,893 [main] INFO nopComemrce - Browser close
+2020-04-24 14:13:30,276 [main] INFO nopComemrce - **Lauching browser**
+2020-04-24 14:13:30,279 [main] INFO nopComemrce - Opening URL 
+2020-04-24 14:13:34,738 [main] INFO nopComemrce - Providing login deatils
+2020-04-24 14:13:35,300 [main] INFO nopComemrce - Started login
+2020-04-24 14:13:43,038 [main] INFO nopComemrce - Login Out
+2020-04-24 14:13:43,039 [main] INFO nopComemrce - Checking title
+2020-04-24 14:13:48,414 [main] INFO nopComemrce - Browser close
+2020-04-24 14:36:31,398 [main] INFO nopComemrce - **Lauching browser**
+2020-04-24 14:36:31,469 [main] INFO nopComemrce - Opening URL 
+2020-04-24 14:36:35,888 [main] INFO nopComemrce - Providing login deatils
+2020-04-24 14:36:36,390 [main] INFO nopComemrce - Started login
+2020-04-24 14:36:43,606 [main] INFO nopComemrce - Click on Customer menu
+2020-04-24 14:36:50,235 [main] INFO nopComemrce - Click on Add
+2020-04-24 14:36:54,329 [main] INFO nopComemrce - Enter info
+2020-04-24 14:37:01,389 [main] INFO nopComemrce - Browser close
+2020-04-24 14:37:08,872 [main] INFO nopComemrce - **Lauching browser**
+2020-04-24 14:37:08,958 [main] INFO nopComemrce - Opening URL 
+2020-04-24 14:37:12,817 [main] INFO nopComemrce - Providing login deatils
+2020-04-24 14:37:13,327 [main] INFO nopComemrce - Started login
+2020-04-24 14:37:24,547 [main] INFO nopComemrce - Login Out
+2020-04-24 14:37:24,749 [main] INFO nopComemrce - Checking title
+2020-04-24 14:37:29,785 [main] INFO nopComemrce - Browser close
+2020-04-24 15:25:00,227 [main] INFO nopComemrce - **Lauching browser**
+2020-04-24 15:25:00,299 [main] INFO nopComemrce - Opening URL 
+2020-04-24 15:25:04,244 [main] INFO nopComemrce - Providing login deatils
+2020-04-24 15:25:04,827 [main] INFO nopComemrce - Started login
+2020-04-24 15:25:13,343 [main] INFO nopComemrce - Click on Customer menu
+2020-04-24 15:25:19,865 [main] INFO nopComemrce - Click on Add
+2020-04-24 15:25:23,215 [main] INFO nopComemrce - Enter info
+2020-04-24 15:25:30,481 [main] INFO nopComemrce - Browser close
+2020-04-24 15:25:38,589 [main] INFO nopComemrce - **Lauching browser**
+2020-04-24 15:25:38,592 [main] INFO nopComemrce - Opening URL 
+2020-04-24 15:25:42,786 [main] INFO nopComemrce - Providing login deatils
+2020-04-24 15:25:43,345 [main] INFO nopComemrce - Started login
+2020-04-24 15:25:48,579 [main] INFO nopComemrce - Login Out
+2020-04-24 15:25:48,582 [main] INFO nopComemrce - Checking title
+2020-04-24 16:16:30,407 [main] INFO nopComemrce - **Lauching browser**
+2020-04-24 16:16:30,815 [main] INFO nopComemrce - Opening URL 
+2020-04-24 16:16:34,833 [main] INFO nopComemrce - Providing login deatils
+2020-04-24 16:16:35,405 [main] INFO nopComemrce - Started login
+2020-04-24 16:16:43,843 [main] INFO nopComemrce - Click on Customer menu
+2020-04-24 16:16:50,366 [main] INFO nopComemrce - Click on Add
+2020-04-24 16:16:54,513 [main] INFO nopComemrce - Enter info
+2020-04-24 16:17:11,816 [main] INFO nopComemrce - Browser close
+2020-04-24 16:17:19,578 [main] INFO nopComemrce - **Lauching browser**
+2020-04-24 16:17:19,582 [main] INFO nopComemrce - Opening URL 
+2020-04-24 16:17:23,716 [main] INFO nopComemrce - Providing login deatils
+2020-04-24 16:17:24,260 [main] INFO nopComemrce - Started login
+2020-04-24 16:17:30,613 [main] INFO nopComemrce - Login Out
+2020-04-24 16:17:30,616 [main] INFO nopComemrce - Checking title
